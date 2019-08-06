@@ -1,4 +1,6 @@
 User-agent: *
+Host: https://designcult.ru
+Sitemap: https://designcult.ru/sitemap.xml
 Disallow: /js
 Disallow: /css
 Disallow: /fonts
